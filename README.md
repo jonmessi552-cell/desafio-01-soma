@@ -1,4 +1,3 @@
-num1 = int(input("Digite primeiro: "))
-num2 = int(input("Digite outro: "))
-
-print("O resultado é", num1 + num2)
+     # Soma de dois números
+     Roda com: python soma.py
+     Aprendi: usar input() e int() no Python
